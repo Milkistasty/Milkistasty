@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Milkistasty's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wenhewangcrane)](https://github.com/Milkistasty/leetcode-stats)
 <!--
 **Milkistasty/Milkistasty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
