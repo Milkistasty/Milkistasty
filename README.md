@@ -1,3 +1,6 @@
+### Live and breathe GitHub
+[![Milkistasty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milkistasty)](https://github.com/anuraghazra/github-readme-stats)
+
 ### LeetCode for Wenhe!
 [![Milkistasty's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wenhewangcrane)](https://github.com/Milkistasty/leetcode-stats)
 
