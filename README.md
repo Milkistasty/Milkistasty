@@ -1,10 +1,10 @@
-### Live and breathe GitHub
+### 🌱Live and breathe GitHub
 [![Milkistasty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milkistasty&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### LeetCode for Wenhe! [(profile)](https://leetcode.com/wenhewangcrane/)
+### ⚡LeetCode for Wenhe! [(profile)](https://leetcode.com/wenhewangcrane/)
 [![Milkistasty's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wenhewangcrane)](https://github.com/Milkistasty/leetcode-stats)
 
-
+### 😄Languages
 ![Milkistasty's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Milkistasty&show_icons=true&count_private=true&theme=gotham)
 
 <!--
