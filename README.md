@@ -4,7 +4,6 @@
 ### LeetCode for Wenhe! [(profile)](https://leetcode.com/wenhewangcrane/)
 [![Milkistasty's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wenhewangcrane)](https://github.com/Milkistasty/leetcode-stats)
 
-### Most used languages
 ![Milkistasty's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Milkistasty&show_icons=true&count_private=true&theme=gotham)
 
 <!--
