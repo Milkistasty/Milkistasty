@@ -1,11 +1,11 @@
 ### 🌱Live and breathe GitHub
-[![Milkistasty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milkistasty&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+![Milkistasty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milkistasty&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=86400)
 
 ### ⚡LeetCode for Wenhe! [(profile)](https://leetcode.com/wenhewangcrane/)
 ![Milkistasty's LeetCode stats](https://leetcard.jacoblin.cool/wenhewangcrane?theme=unicorn&font=ABeeZee&ext=activity)
 
 ### 💬Languages
-![Milkistasty's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Milkistasty&show_icons=true&count_private=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milkistasty&layout=compact&count_private=true&langs_count=8&cache_seconds=86400)
 
 
 
