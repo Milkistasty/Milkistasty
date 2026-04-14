@@ -5,7 +5,9 @@
 ![Milkistasty's LeetCode stats](https://leetcard.jacoblin.cool/wenhewangcrane?theme=unicorn&font=ABeeZee&ext=activity)
 
 ### 💬Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milkistasty&layout=compact&count_private=true&langs_count=8&cache_seconds=86400)
+![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Milkistasty&theme=tokyonight)
+
+![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Milkistasty&theme=tokyonight)
 
 
 
