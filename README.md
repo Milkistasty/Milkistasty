@@ -1,5 +1,5 @@
 ### 🌱Live and breathe GitHub
-![Milkistasty's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Milkistasty&theme=github_dark)
+![Milkistasty's GitHub stats](https://streak-stats.demolab.com?user=Milkistasty&theme=dark)
 
 ### ⚡LeetCode for Wenhe! [(profile)](https://leetcode.com/wenhewangcrane/)
 ![Milkistasty's LeetCode stats](https://leetcard.jacoblin.cool/wenhewangcrane?theme=unicorn&font=ABeeZee&ext=activity)
