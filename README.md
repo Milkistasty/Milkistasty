@@ -11,6 +11,10 @@
 
 ![Milkistasty's LeetCode stats](https://leetcard.jacoblin.cool/wenhewangcrane?theme=light&font=ABeeZee&ext=activity&border=1&radius=4.5)
 
+### 🧠 NeetCode
+
+[![NeetCode Solutions](https://github-readme-stats-fast.vercel.app/api/pin/?username=Milkistasty&repo=neetcode-submissions&title_color=d97757&text_color=141413&icon_color=D4A27F&bg_color=faf9f5&border_color=e8e6dc)](https://github.com/Milkistasty/neetcode-submissions)
+
 ### 💬 Languages
 
 ![Milkistasty's Most used languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Milkistasty&show_icons=true&count_private=true&title_color=d97757&text_color=141413&icon_color=D4A27F&bg_color=faf9f5&border_color=e8e6dc)
