@@ -13,7 +13,7 @@
 
 ### 🧠 NeetCode
 
-[![NeetCode Solutions](https://github-readme-stats-fast.vercel.app/api/pin/?username=Milkistasty&repo=neetcode-submissions&title_color=d97757&text_color=141413&icon_color=D4A27F&bg_color=faf9f5&border_color=e8e6dc)](https://github.com/Milkistasty/neetcode-submissions)
+![NeetCode Stats](https://raw.githubusercontent.com/Milkistasty/neetcode-submissions/main/neetcode-stats-card.svg)
 
 ### 💬 Languages
 
